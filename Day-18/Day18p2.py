@@ -1,5 +1,5 @@
 from collections import deque
-with open("Day-18-Challenge/input.txt", "r") as file:
+with open("input.txt", "r") as file:
     lines = file.readlines()
 
 def is_path_possible(grid, start, end):
