@@ -1,4 +1,4 @@
-with open("Day-16-Challenge/input.txt", "r") as file:
+with open("input.txt", "r") as file:
     lines = file.readlines()
 final_grid = [[""]*(len(lines)) for _ in range(len(lines[0]) - 1)]
 
