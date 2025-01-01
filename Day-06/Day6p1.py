@@ -37,7 +37,7 @@ def simulate_guard(grid):
     return len(visited_positions)
 
 
-file_path = "Day-6-Challenge/input.txt"
+file_path = "input.txt"
 grid = read_map(file_path)
 result = simulate_guard(grid)
 
