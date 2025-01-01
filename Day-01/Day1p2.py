@@ -1,7 +1,7 @@
 left_list = [] 
 right_list = []
 
-with open("Day-1-Challange/input.txt", "r") as file: 
+with open("input.txt", "r") as file: 
     for line in file:
         left, right = map(int, line.strip().split())
         left_list.append(left)
