@@ -34,7 +34,7 @@ def is_safe(report):
         if check_safety(modified_levels):
             return True
 
-with open("Day-2-Challenge\input.txt", "r") as file:
+with open("input.txt", "r") as file:
     reports = file.readlines()
 
 safe_count = 0
