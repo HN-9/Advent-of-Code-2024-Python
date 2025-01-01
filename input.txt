@@ -1,0 +1,4 @@
+Advent Of Code guidelines suggest we dont publish the input to repos, but you can get your input and run this solution yourself.
+Get the input from:
+https://adventofcode.com/2024/day/1/input
+Replace day number by the challenge dat to get the input for your code and the paste it in your input.txt file
