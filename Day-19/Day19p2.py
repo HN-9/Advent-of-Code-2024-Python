@@ -1,5 +1,5 @@
 from functools import cache
-with open("Day-19-Challenge/input.txt", "r") as file: 
+with open("input.txt", "r") as file: 
     lines = file.readlines()
 
 towel_patterns = []
