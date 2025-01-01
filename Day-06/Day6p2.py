@@ -119,7 +119,7 @@ def find_all_loop_positions(grid, visited_positions):
     return loop_positions
 
 
-file_path = "Day-6-Challenge/input.txt"
+file_path = "input.txt"
 grid = read_map(file_path)
 visited_positions = simulate_guard_with_tracking(grid)
 loop_positions = find_all_loop_positions(grid, visited_positions)
