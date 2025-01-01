@@ -51,7 +51,7 @@ def calculate_trailhead_scores(height_map):
     
     return total_score
 
-file_path = "Day-10-Challenge/input.txt"
+file_path = "input.txt"
 height_map = read_map(file_path)
 total_score = calculate_trailhead_scores(height_map)
 print(total_score)
