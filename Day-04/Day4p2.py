@@ -30,7 +30,7 @@ def count_x_mas(grid):
 
 def load_grid():
     grid = []
-    with open("Day-4-Challenge/input.txt", "r") as file:
+    with open("input.txt", "r") as file:
         for line in file:
             grid.append(list(line.strip()))
     return grid
