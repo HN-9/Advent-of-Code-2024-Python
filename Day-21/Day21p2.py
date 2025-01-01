@@ -98,7 +98,7 @@ for key_pair, paths in directional_sequences.items():
 
 total_complexity = 0
 
-with open("Day-21-Challenge/input.txt", "r") as file:
+with open("input.txt", "r") as file:
     lines = file.read().splitlines()
 
 for line in lines:
