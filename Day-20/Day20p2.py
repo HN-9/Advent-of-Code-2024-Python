@@ -1,5 +1,5 @@
 from collections import deque
-with open("Day-20-Challenge/input.txt", "r") as file:  
+with open("input.txt", "r") as file:  
     lines = file.readlines()
 
 grid = []
