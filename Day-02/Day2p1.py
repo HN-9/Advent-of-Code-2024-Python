@@ -21,7 +21,7 @@ def is_safe(report):
 
     return is_decreasing or is_increasing
 
-with open("Day-2-Challenge\input.txt", "r") as file:
+with open("input.txt", "r") as file:
     reports = file.readlines()
 
 safe_count = 0
