@@ -1,5 +1,5 @@
 
-with open("Day-24-Challenge\input.txt", "r") as file:
+with open("input.txt", "r") as file:
     lines = file.readlines()
 
 formulas = {}
