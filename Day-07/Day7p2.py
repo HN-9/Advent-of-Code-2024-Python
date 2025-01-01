@@ -51,7 +51,7 @@ def calculate_total_calibration_result(equations):
 
 
 start_time = time.time()
-input_file = "Day-7-challenge/input.txt"
+input_file = "input.txt"
 equations = read_input(input_file)
 result = calculate_total_calibration_result(equations)
 end_time = time.time()
