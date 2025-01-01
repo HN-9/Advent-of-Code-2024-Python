@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-with open("Day-8-Challenge/input.txt", "r") as file:
+with open("input.txt", "r") as file:
     lines = []
     for line in file:
         lines.append(line.strip())
