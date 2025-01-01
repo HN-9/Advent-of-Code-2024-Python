@@ -1,4 +1,4 @@
-with open("Day-22-Challenge\input.txt", "r") as file:
+with open("input.txt", "r") as file:
     lines = file.readlines()
 
 def secretStep(secret):
