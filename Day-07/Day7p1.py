@@ -41,7 +41,7 @@ def calculate_total_calibration_result(equations):
     return total_calibration_result
 
 
-input_file = "Day-7-challenge/input.txt"
+input_file = "input.txt"
 equations = read_input(input_file)
 result = calculate_total_calibration_result(equations)
 print(result)
