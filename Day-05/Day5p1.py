@@ -44,7 +44,7 @@ def solve(rules, updates):
 
 
 
-file_path = "Day-5-Challenge\input.txt"
+file_path = "input.txt"
 rules, updates = parse(file_path)
 result = solve(rules, updates)
 print(result)
